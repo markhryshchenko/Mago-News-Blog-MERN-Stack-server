@@ -16,18 +16,18 @@ https://mago-news-blog-mern-stack-server.onrender.com/api/label/
 
 Also, You can watch demo on your local server.
 You should download front-end in my repository 
-** Mago-News-Blog-MERN-Stack-client**
+**Mago-News-Blog-MERN-Stack-client**
 You should run local server and runs **Mago-News-Blog-MERN-Stack-client** and 
-** Mago-News-Blog-MERN-Stack-server** in the development mode.
+**Mago-News-Blog-MERN-Stack-server** in the development mode.
 
 ## First step
-### open folder with ** Mago-News-Blog-MERN-Stack-server**
+### open folder with **Mago-News-Blog-MERN-Stack-server**
 ### enter ` npm run dev `
 Open (http:// localhost:8080/) to view it in your browser.
 If server works, it will be ‘it’s works’
 
 ## Second step
-### open folder with **** Mago-News-Blog-MERN-Stack-client**
+### open folder with **Mago-News-Blog-MERN-Stack-client**
 ### enter `npm start`
 Runs the app in the development mode.
 Open (http://localhost:3000) to view it in your browser.
